@@ -1,0 +1,35 @@
+# لين عمر عبدالله ال عيون 202420244
+# جمانه ايهاب عبد الحليم الريس 202320016
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#boolean-indexing
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.isna.html
+https://docs.python.org/3/library/ast.html#ast.literal_eval
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.apply.html
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+https://realpython.com/python-logging/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_csv.html
+https://docs.python.org/3/tutorial/datastructures.html
+https://docs.python.org/3/library/functions.html#print
+https://realpython.com/beautiful-soup-web-scraper-python/#step-4-navigate-the-html-tree-structure
+https://docs.python.org/3/tutorial/errors.html
+https://requests.readthedocs.io/en/latest/user/advanced/#timeouts
+https://python-forum.io/thread-25754.html
+https://www.youtube.com/watch?v=LCVSmkyB4v8&t=1139s
+https://stackoverflow.com/questions/70468574/how-can-i-add-a-comma-or-separator-when-scraping-results-using-beautifulsoup
+https://stackoverflow.com/questions/73089414/how-could-i-extract-the-content-of-an-article-from-a-html-webpage-using-python-b
+https://docs.python.org/3/library/ast.html#ast.literal_eval
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.apply.html
+https://docs.python.org/3/library/stdtypes.html#str.replace
+https://stackoverflow.com/questions/68731857/how-to-use-lambda-functions-to-data-clean-excel-in-python
+https://www.geeksforgeeks.org/applying-lambda-functions-to-pandas-dataframe/
+https://itsourcecode.com/attributeerror/attributeerror-nonetype-object-has-no-attribute-find-solved/
+https://www.datacamp.com/tutorial/python-trim
+https://www.geeksforgeeks.org/string-slicing-in-python/
+https://youtu.be/UZIhVmkrAEs?si=IL7HP2H5P6Yj2N0_
+https://stackoverflow.com/questions/61929833/how-to-filter-missing-data-rows-using-python/61929873#61929873
+https://www.geeksforgeeks.org/find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns/
+https://realpython.com/python-strip/#remove-specific-characters-with-strip
+https://www.geeksforgeeks.org/python-pandas-series-str-contains/
+https://www.geeksforgeeks.org/map-function-lambda-expression-python-replace-characters/
+https://stackoverflow.com/questions/35657918/series-object-has-no-attribute-strip
+https://www.geeksforgeeks.org/remove-xa0-from-a-string-in-python/?utm_source=chatgpt.com
